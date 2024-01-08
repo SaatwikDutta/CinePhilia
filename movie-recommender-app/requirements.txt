@@ -1,4 +1,4 @@
 pandas
 numpy
 nltk
-scikit-learn
+scikit-learn==23.3.2
