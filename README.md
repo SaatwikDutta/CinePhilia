@@ -23,7 +23,7 @@ The system utilizes the TMDB 5000 movies dataset, which includes information abo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SaatwikDutta/movie-recommendation-system.git
+   git clone https://github.com/SaatwikDutta/CinePhilia.git
    ```
 
 2. Install dependencies:
@@ -35,7 +35,7 @@ The system utilizes the TMDB 5000 movies dataset, which includes information abo
 3. Open the movie-receommender-app directory in VS code (or any other IDE) and Run the application in the terminal:
 
    ```vs code terminal
-   streamlit run Homepage.py
+   streamlit run app.py
    ```
 
 4. Open your browser and go to [http://localhost:5000](http://localhost:5000) to access the Movie Recommendation System.
