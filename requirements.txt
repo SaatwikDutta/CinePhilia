@@ -1,6 +1,5 @@
 pandas
 numpy
 nltk
-re
 sklearn
 pickle
