@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import requests
+import sklearn
 
 st.set_page_config(
     page_title='CinePhilia', page_icon='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgwyGJxccQ8JdQZ4biEZIozjHRnfINIKX9aQ&usqp=CAU',
