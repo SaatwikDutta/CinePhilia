@@ -2,4 +2,3 @@ pandas
 numpy
 nltk
 scikit-learn
-pickle
