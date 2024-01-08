@@ -2,3 +2,4 @@ pandas
 numpy
 nltk
 scikit-learn==23.3.2
+streamlit
