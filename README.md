@@ -11,8 +11,6 @@ Features
 
 -**Search Functionality**: Allows users to search for specific movies and movies closely related to the searched movie.
 
--**Popular and Trending Movies**: Displays popular and trending movies based on overall user ratings.
-
 
 ## Data Source
 
@@ -44,9 +42,7 @@ The system utilizes the TMDB 5000 movies dataset, which includes information abo
 
 1. Register or log in to your account.
 
-2. Explore the home page to see popular movies.
-
-3. Use the search bar to find specific movie and its similar movies.
+2. Use the search bar to find specific movie and its similar movies.
 
 ## Technologies Used
 
