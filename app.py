@@ -43,12 +43,12 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
 # remove the header
-# hide_decoration_bar_style = '''
-#     <style>
-#         header {visibility: hidden;}
-#     </style>
-# '''
-# st.markdown(hide_decoration_bar_style, unsafe_allow_html=True)
+hide_decoration_bar_style = '''
+    <style>
+        header {visibility: hidden;}
+    </style>
+'''
+st.markdown(hide_decoration_bar_style, unsafe_allow_html=True)
 
 
 
@@ -150,26 +150,6 @@ if button_clicked:
             st.image(poster[9])
             st.write(recommendations[9])
 
-        with col11:
-            st.image(poster[10])
-            st.write(recommendations[10])
-
-
-        with col12:
-            st.image(poster[11])
-            st.write(recommendations[11])
-
-        with col13:
-            st.image(poster[12])
-            st.write(recommendations[12])
-
-        with col14:
-            st.image(poster[13])
-            st.write(recommendations[13])
-
-        with col15:
-            st.image(poster[14])
-            st.write(recommendations[14])
 
         st.markdown("<h6 style='text-align: center; color: #00FFF7;'>AND YEAH, THANKS FOR USING.</h6>", unsafe_allow_html=True)
     
