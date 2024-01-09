@@ -57,6 +57,15 @@ The system utilizes the TMDB 5000 movies dataset, which includes information abo
 - Natural Language Processing (NLP)
 - HTML/CSS (Frontend)
 
+## Screeshots
+
+![homepage](https://github.com/SaatwikDutta/CinePhilia/assets/88401922/48bcadaf-caba-4d49-af6f-aeb60fb6d78c)
+
+![homepage2](https://github.com/SaatwikDutta/CinePhilia/assets/88401922/2ccadf96-8488-46d2-835c-2ec68681ee2f)
+
+![homepage3](https://github.com/SaatwikDutta/CinePhilia/assets/88401922/53eef379-222c-4543-960a-db005db193be)
+
+
 
 ## Acknowledgments
 
