@@ -16,33 +16,6 @@ Features
 
 The system utilizes the TMDB 5000 movies dataset, which includes information about movies such as title, genres, cast, crew, budget, revenue, release date, and user ratings. The dataset is available at [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/SaatwikDutta/CinePhilia.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the movie-receommender-app directory in VS code (or any other IDE) and Run the application in the terminal:
-
-   ```vs code terminal
-   streamlit run app.py
-   ```
-
-4. Open your browser and go to [http://localhost:5000](http://localhost:5000) to access the Movie Recommendation System.
-
-## Usage
-
-1. Register or log in to your account.
-
-2. Use the search bar to find specific movie and its similar movies.
 
 ## Technologies Used
 
