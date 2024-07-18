@@ -35,7 +35,6 @@ The system utilizes the TMDB 5000 movies dataset, which includes information abo
 ![homepage3](https://github.com/SaatwikDutta/CinePhilia/assets/88401922/53eef379-222c-4543-960a-db005db193be)
 
 
-
 ## Acknowledgments
 
 - The Movie Database (TMDB) for providing the dataset.
